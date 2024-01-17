@@ -15,5 +15,5 @@ In this capstone, I predicted if the Falcon 9 first stage will land successfully
 
 
 ## Skills (Developed & Applied)
-Programming, Python, RDBMS & SQL, SQL (MySQL), Databases, Statistics, Probability, Linear Algebra, Numpy, Pandas, Seaborn, Matplotlib, Plotly, Dash, Folium, BeautifulSoup, Scikit-learn, Dataframes, ETL &| ELT & Data Pipelines, Automation, Webscraping, APIs, Data Modeling, EDA, Data Visualization, Data Summarization, Data Reporting, Dashboards, Classification, Superived ML, Communication, Technical Writing
+Programming, Python, RDBMS & SQL, SQL (MySQL), Databases, Statistics, Probability, Linear Algebra, Numpy, Pandas, Seaborn, Matplotlib, Plotly, Dash, Folium, BeautifulSoup, Scikit-learn, Dataframes, ETL &| ELT & Data Pipelines, Automation, Webscraping, APIs, Data Modeling, EDA, Data Visualization, Data Summarization, Data Reporting, Dashboards, Classification, Supervised ML, Communication, Technical Writing
     
