@@ -1,24 +1,19 @@
 ## Project(CapstoneProject_SpaceX_Predictions)
-### Part of the Coursera series: IBM Data Engineering & Python
+### Part of the Coursera series: IBM Data Science
     
 ## Summary
-My Jupyter notebook did not save correctly, unfortunately.  My work has been deleted, but the outline of the project belies the steps I understook.  Primarily, we completed these tasks:
-Task 1: Generate DataFrame from CSV data.
-Task 2: Define a schema for the data.
-Task 3: Display schema of DataFrame.
-Task 4: Create a temporary view.
-Task 5: Execute an SQL query.
-Task 6: Calculate Average Salary by Department.
-Task 7: Filter and Display IT Department Employees.
-Task 8: Add 10% Bonus to Salaries.
-Task 9: Find Maximum Salary by Age.
-Task 10: Self-Join on Employee Data.
-Task 11: Calculate Average Employee Age.
-Task 12: Calculate Total Salary by Department.
-Task 13: Sort Data by Age and Salary.
-Task 14: Count Employees in Each Department.
-Task 15: Filter Employees with the letter o in the Name. 
+In this capstone, I predicted if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore determining if the first stage will land and the cost of launch can help to determine if an alternate company may want to bid against SpaceX for a rocket launch. In this lab, I completed several stesp:
+- I collected data from an API and wrangled it into the right format
+- I gathered additional supplemental data via webscraping
+- I utilized a SQL database and Python/Juptyer Notebooks to perform EDA.
+- I created a number of useful visualizations
+- I employed Folium as a way to visualize launch sites and landmarks
+- I created a dashboard with Dash and Plotly for stakeholder use
+- I set up ML models to predict launch success and performed some feature engineering as well
+- I created a written report summarizing our findings and recommendations.
+-
+
 
 ## Skills (Developed & Applied)
-Programming, Python, RDBMS & SQL, Databases, Statistics, Numpy, Pandas, Dataframes, ETL &| ELT & Data Pipelines, DAGs, Apache Spark, Automation, Data Modeling, EDA, Data Visualization, Data Summarization
+Programming, Python, RDBMS & SQL, SQL (MySQL), Databases, Statistics, Probability, Linear Algebra, Numpy, Pandas, Seaborn, Matplotlib, Plotly, Dash, Folium, BeautifulSoup, Scikit-learn, Dataframes, ETL &| ELT & Data Pipelines, Automation, Webscraping, APIs, Data Modeling, EDA, Data Visualization, Data Summarization, Data Reporting, Dashboards, Classification, Superived ML, Communication, Technical Writing
     
